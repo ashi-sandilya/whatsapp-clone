@@ -9,6 +9,6 @@ This is a what's app clone made using `react.js` and `firebase`
 5) the development server will start at the http://localhost:3000/
 
 
-#Screenshots:-
+# Screenshots:-
 Screenshots are available in the `screenshots-clone` dir
 or click on https://github.com/ashi-sandilya/whatsapp-clone/tree/master/screenshots-clone
