@@ -10,6 +10,5 @@ This is a what's app clone made using `react.js` and `firebase`
 
 
 #Screenshots:-
-Sign up into the app using the google accounts
-
-![ss1](/screenshots-clone/Screenshot(274).png)
+Screenshots are available in the `screenshots-clone` dir
+or click on https://github.com/ashi-sandilya/whatsapp-clone/tree/master/screenshots-clone
