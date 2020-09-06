@@ -9,3 +9,6 @@ This is a what's app clone made using `react.js` and `firebase`
 5) the development server will start at the http://localhost:3000/
 
 
+#Screenshots:-
+Sign up into the app using the google accounts
+![](screenshots-clone/Screenshot (274).png)
