@@ -11,4 +11,5 @@ This is a what's app clone made using `react.js` and `firebase`
 
 #Screenshots:-
 Sign up into the app using the google accounts
-![](screenshots-clone/Screenshot (274).png)
+
+![](https://github.com/ashi-sandilya/whatsapp-clone/screenshots-clone/Screenshot(274).png)
